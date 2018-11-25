@@ -1,0 +1,75 @@
+﻿生成启动时间为 2018/10/24 21:31:19。
+     1>项目“D:\x265_1.7\build\common\common.vcxproj”在节点 2 上(Rebuild 个目标)。
+     1>CustomBuild:
+         Building Custom Rule D:/x265_1.7/source/common/CMakeLists.txt
+         CMake does not need to re-run because D:/x265_1.7/build/common/CMakeFiles/generate.stamp is up-to-date.
+       ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /ID:\x265_1.7\source\. /ID:\x265_1.7\source\common /ID:\x265_1.7\source\encoder /ID:\x265_1.7\build /Zi /nologo /W4 /WX- /MP /Od /Ob2 /D WIN32 /D _WINDOWS /D X265_ARCH_X86=1 /D X86_64=1 /D _CRT_SECURE_NO_WARNINGS /D HAVE_INT_TYPES_H=1 /D HIGH_BIT_DEPTH=0 /D _WIN32_WINNT=_WIN32_WINNT_WIN7 /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"common.dir\Debug\\" /Fd"common.dir\Debug\vc120.pdb" /Gd /TP /errorReport:prompt D:\x265_1.7\source\common\winxp.cpp D:\x265_1.7\source\common\primitives.cpp D:\x265_1.7\source\common\pixel.cpp D:\x265_1.7\source\common\dct.cpp D:\x265_1.7\source\common\ipfilter.cpp D:\x265_1.7\source\common\intrapred.cpp D:\x265_1.7\source\common\loopfilter.cpp D:\x265_1.7\source\common\constants.cpp D:\x265_1.7\source\common\cpu.cpp D:\x265_1.7\source\common\threading.cpp D:\x265_1.7\source\common\threadpool.cpp D:\x265_1.7\source\common\wavefront.cpp D:\x265_1.7\source\common\md5.cpp D:\x265_1.7\source\common\bitstream.cpp D:\x265_1.7\source\common\yuv.cpp D:\x265_1.7\source\common\shortyuv.cpp D:\x265_1.7\source\common\picyuv.cpp D:\x265_1.7\source\common\common.cpp D:\x265_1.7\source\common\param.cpp D:\x265_1.7\source\common\frame.cpp D:\x265_1.7\source\common\framedata.cpp D:\x265_1.7\source\common\cudata.cpp D:\x265_1.7\source\common\slice.cpp D:\x265_1.7\source\common\lowres.cpp D:\x265_1.7\source\common\piclist.cpp D:\x265_1.7\source\common\predict.cpp D:\x265_1.7\source\common\scalinglist.cpp D:\x265_1.7\source\common\quant.cpp D:\x265_1.7\source\common\deblock.cpp
+         winxp.cpp
+         primitives.cpp
+         pixel.cpp
+         dct.cpp
+         ipfilter.cpp
+         intrapred.cpp
+         loopfilter.cpp
+         constants.cpp
+         cpu.cpp
+         threading.cpp
+         threadpool.cpp
+         wavefront.cpp
+         md5.cpp
+         bitstream.cpp
+         yuv.cpp
+         shortyuv.cpp
+         picyuv.cpp
+         common.cpp
+         param.cpp
+         frame.cpp
+         framedata.cpp
+         cudata.cpp
+         slice.cpp
+         lowres.cpp
+         piclist.cpp
+         predict.cpp
+         scalinglist.cpp
+         quant.cpp
+         deblock.cpp
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /ID:\x265_1.7\source\. /ID:\x265_1.7\source\common /ID:\x265_1.7\source\encoder /ID:\x265_1.7\build /Zi /nologo /W4 /WX- /MP /Od /Ob2 /D X265_VERSION=1.7 /D WIN32 /D _WINDOWS /D X265_ARCH_X86=1 /D X86_64=1 /D _CRT_SECURE_NO_WARNINGS /D HAVE_INT_TYPES_H=1 /D HIGH_BIT_DEPTH=0 /D _WIN32_WINNT=_WIN32_WINNT_WIN7 /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"common.dir\Debug\\" /Fd"common.dir\Debug\vc120.pdb" /Gd /TP /errorReport:prompt D:\x265_1.7\source\common\version.cpp
+         version.cpp
+       Lib:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\Lib.exe /OUT:"common.dir\Debug\common.lib" /NOLOGO /MACHINE:X64  /machine:x64 common.dir\Debug\winxp.obj
+         common.dir\Debug\primitives.obj
+         common.dir\Debug\pixel.obj
+         common.dir\Debug\dct.obj
+         common.dir\Debug\ipfilter.obj
+         common.dir\Debug\intrapred.obj
+         common.dir\Debug\loopfilter.obj
+         common.dir\Debug\constants.obj
+         common.dir\Debug\cpu.obj
+         common.dir\Debug\version.obj
+         common.dir\Debug\threading.obj
+         common.dir\Debug\threadpool.obj
+         common.dir\Debug\wavefront.obj
+         common.dir\Debug\md5.obj
+         common.dir\Debug\bitstream.obj
+         common.dir\Debug\yuv.obj
+         common.dir\Debug\shortyuv.obj
+         common.dir\Debug\picyuv.obj
+         common.dir\Debug\common.obj
+         common.dir\Debug\param.obj
+         common.dir\Debug\frame.obj
+         common.dir\Debug\framedata.obj
+         common.dir\Debug\cudata.obj
+         common.dir\Debug\slice.obj
+         common.dir\Debug\lowres.obj
+         common.dir\Debug\piclist.obj
+         common.dir\Debug\predict.obj
+         common.dir\Debug\scalinglist.obj
+         common.dir\Debug\quant.obj
+         common.dir\Debug\deblock.obj
+         common.vcxproj -> D:\x265_1.7\build\common\common.dir\Debug\common.lib
+     1>已完成生成项目“D:\x265_1.7\build\common\common.vcxproj”(Rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:17.70

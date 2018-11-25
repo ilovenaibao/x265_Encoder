@@ -1,0 +1,129 @@
+Determining if the C compiler works failed with the following output:
+Change Dir: E:/DSP/x265/x265_1.7/build/vc10-x86/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Windows/Microsoft.NET/Framework/v4.0.30319/MSBuild.exe" "cmTC_d1486.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=10.0"
+Microsoft(R) 生成引擎版本 4.0.30319.36315
+[Microsoft .NET Framework 版本 4.0.30319.36315]
+版权所有(C) Microsoft Corporation 2007。保留所有权利。
+
+生成启动时间为 2015/7/28 9:49:13。
+节点 1 上的项目“E:\DSP\x265\x265_1.7\build\vc10-x86\CMakeFiles\CMakeTmp\cmTC_d1486.vcxproj”(默认目标)。
+PrepareForBuild:
+  正在创建目录“cmTC_d1486.dir\Debug\”。
+  正在创建目录“E:\DSP\x265\x265_1.7\build\vc10-x86\CMakeFiles\CMakeTmp\Debug\”。
+InitializeBuildStatus:
+  正在创建“cmTC_d1486.dir\Debug\cmTC_d1486.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+ClCompile:
+  D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTC_d1486.dir\Debug\\" /Fd"cmTC_d1486.dir\Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:queue testCCompiler.c
+  用于 80x86 的 Microsoft (R) 32 位 C/C++ 优化编译器 16.00.30319.01 版
+  版权所有(C) Microsoft Corporation。保留所有权利。
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTC_d1486.dir\Debug\\" /Fd"cmTC_d1486.dir\Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:queue testCCompiler.c
+  
+  testCCompiler.c
+ManifestResourceCompile:
+  C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"cmTC_d1486.dir\Debug\cmTC_d1486.exe.embed.manifest.res" cmTC_d1486.dir\Debug\cmTC_d1486_manifest.rc 
+Link:
+  D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"E:\DSP\x265\x265_1.7\build\vc10-x86\CMakeFiles\CMakeTmp\Debug\cmTC_d1486.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /ManifestFile:"cmTC_d1486.dir\Debug\cmTC_d1486.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:/DSP/x265/x265_1.7/build/vc10-x86/CMakeFiles/CMakeTmp/Debug/cmTC_d1486.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:/DSP/x265/x265_1.7/build/vc10-x86/CMakeFiles/CMakeTmp/Debug/cmTC_d1486.lib" /MACHINE:X86 cmTC_d1486.dir\Debug\cmTC_d1486.exe.embed.manifest.res
+  cmTC_d1486.dir\Debug\testCCompiler.obj  /machine:X86 /debug 
+LINK : fatal error LNK1123: 转换到 COFF 期间失败: 文件无效或损坏 [E:\DSP\x265\x265_1.7\build\vc10-x86\CMakeFiles\CMakeTmp\cmTC_d1486.vcxproj]
+已完成生成项目“E:\DSP\x265\x265_1.7\build\vc10-x86\CMakeFiles\CMakeTmp\cmTC_d1486.vcxproj”(默认目标)的操作 - 失败。
+
+生成失败。
+
+“E:\DSP\x265\x265_1.7\build\vc10-x86\CMakeFiles\CMakeTmp\cmTC_d1486.vcxproj”(默认目标) (1) ->
+(Link 目标) -> 
+  LINK : fatal error LNK1123: 转换到 COFF 期间失败: 文件无效或损坏 [E:\DSP\x265\x265_1.7\build\vc10-x86\CMakeFiles\CMakeTmp\cmTC_d1486.vcxproj]
+
+    0 个警告
+    1 个错误
+
+已用时间 00:00:01.16
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: E:/DSP/x265/x265_1.7/build/vc10-x86/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Windows/Microsoft.NET/Framework/v4.0.30319/MSBuild.exe" "cmTC_f0860.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=10.0"
+Microsoft(R) 生成引擎版本 4.0.30319.36315
+[Microsoft .NET Framework 版本 4.0.30319.36315]
+版权所有(C) Microsoft Corporation 2007。保留所有权利。
+
+生成启动时间为 2015/7/28 9:50:01。
+节点 1 上的项目“E:\DSP\x265\x265_1.7\build\vc10-x86\CMakeFiles\CMakeTmp\cmTC_f0860.vcxproj”(默认目标)。
+PrepareForBuild:
+  正在创建目录“cmTC_f0860.dir\Debug\”。
+  正在创建目录“E:\DSP\x265\x265_1.7\build\vc10-x86\CMakeFiles\CMakeTmp\Debug\”。
+InitializeBuildStatus:
+  正在创建“cmTC_f0860.dir\Debug\cmTC_f0860.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+ClCompile:
+  D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTC_f0860.dir\Debug\\" /Fd"cmTC_f0860.dir\Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:queue testCCompiler.c
+  用于 80x86 的 Microsoft (R) 32 位 C/C++ 优化编译器 16.00.30319.01 版
+  版权所有(C) Microsoft Corporation。保留所有权利。
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTC_f0860.dir\Debug\\" /Fd"cmTC_f0860.dir\Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:queue testCCompiler.c
+  
+  testCCompiler.c
+ManifestResourceCompile:
+  C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"cmTC_f0860.dir\Debug\cmTC_f0860.exe.embed.manifest.res" cmTC_f0860.dir\Debug\cmTC_f0860_manifest.rc 
+Link:
+  D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"E:\DSP\x265\x265_1.7\build\vc10-x86\CMakeFiles\CMakeTmp\Debug\cmTC_f0860.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /ManifestFile:"cmTC_f0860.dir\Debug\cmTC_f0860.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:/DSP/x265/x265_1.7/build/vc10-x86/CMakeFiles/CMakeTmp/Debug/cmTC_f0860.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:/DSP/x265/x265_1.7/build/vc10-x86/CMakeFiles/CMakeTmp/Debug/cmTC_f0860.lib" /MACHINE:X86 cmTC_f0860.dir\Debug\cmTC_f0860.exe.embed.manifest.res
+  cmTC_f0860.dir\Debug\testCCompiler.obj  /machine:X86 /debug 
+LINK : fatal error LNK1123: 转换到 COFF 期间失败: 文件无效或损坏 [E:\DSP\x265\x265_1.7\build\vc10-x86\CMakeFiles\CMakeTmp\cmTC_f0860.vcxproj]
+已完成生成项目“E:\DSP\x265\x265_1.7\build\vc10-x86\CMakeFiles\CMakeTmp\cmTC_f0860.vcxproj”(默认目标)的操作 - 失败。
+
+生成失败。
+
+“E:\DSP\x265\x265_1.7\build\vc10-x86\CMakeFiles\CMakeTmp\cmTC_f0860.vcxproj”(默认目标) (1) ->
+(Link 目标) -> 
+  LINK : fatal error LNK1123: 转换到 COFF 期间失败: 文件无效或损坏 [E:\DSP\x265\x265_1.7\build\vc10-x86\CMakeFiles\CMakeTmp\cmTC_f0860.vcxproj]
+
+    0 个警告
+    1 个错误
+
+已用时间 00:00:00.66
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: E:/DSP/x265/x265_1.7/build/vc10-x86/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Windows/Microsoft.NET/Framework/v4.0.30319/MSBuild.exe" "cmTC_09a6f.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=10.0"
+Microsoft(R) 生成引擎版本 4.0.30319.36315
+[Microsoft .NET Framework 版本 4.0.30319.36315]
+版权所有(C) Microsoft Corporation 2007。保留所有权利。
+
+生成启动时间为 2015/7/28 9:50:07。
+节点 1 上的项目“E:\DSP\x265\x265_1.7\build\vc10-x86\CMakeFiles\CMakeTmp\cmTC_09a6f.vcxproj”(默认目标)。
+PrepareForBuild:
+  正在创建目录“cmTC_09a6f.dir\Debug\”。
+  正在创建目录“E:\DSP\x265\x265_1.7\build\vc10-x86\CMakeFiles\CMakeTmp\Debug\”。
+InitializeBuildStatus:
+  正在创建“cmTC_09a6f.dir\Debug\cmTC_09a6f.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+ClCompile:
+  D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTC_09a6f.dir\Debug\\" /Fd"cmTC_09a6f.dir\Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:queue testCCompiler.c
+  用于 80x86 的 Microsoft (R) 32 位 C/C++ 优化编译器 16.00.30319.01 版
+  版权所有(C) Microsoft Corporation。保留所有权利。
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTC_09a6f.dir\Debug\\" /Fd"cmTC_09a6f.dir\Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:queue testCCompiler.c
+  testCCompiler.c
+  
+ManifestResourceCompile:
+  C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"cmTC_09a6f.dir\Debug\cmTC_09a6f.exe.embed.manifest.res" cmTC_09a6f.dir\Debug\cmTC_09a6f_manifest.rc 
+Link:
+  D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"E:\DSP\x265\x265_1.7\build\vc10-x86\CMakeFiles\CMakeTmp\Debug\cmTC_09a6f.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /ManifestFile:"cmTC_09a6f.dir\Debug\cmTC_09a6f.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:/DSP/x265/x265_1.7/build/vc10-x86/CMakeFiles/CMakeTmp/Debug/cmTC_09a6f.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:/DSP/x265/x265_1.7/build/vc10-x86/CMakeFiles/CMakeTmp/Debug/cmTC_09a6f.lib" /MACHINE:X86 cmTC_09a6f.dir\Debug\cmTC_09a6f.exe.embed.manifest.res
+  cmTC_09a6f.dir\Debug\testCCompiler.obj  /machine:X86 /debug 
+LINK : fatal error LNK1123: 转换到 COFF 期间失败: 文件无效或损坏 [E:\DSP\x265\x265_1.7\build\vc10-x86\CMakeFiles\CMakeTmp\cmTC_09a6f.vcxproj]
+已完成生成项目“E:\DSP\x265\x265_1.7\build\vc10-x86\CMakeFiles\CMakeTmp\cmTC_09a6f.vcxproj”(默认目标)的操作 - 失败。
+
+生成失败。
+
+“E:\DSP\x265\x265_1.7\build\vc10-x86\CMakeFiles\CMakeTmp\cmTC_09a6f.vcxproj”(默认目标) (1) ->
+(Link 目标) -> 
+  LINK : fatal error LNK1123: 转换到 COFF 期间失败: 文件无效或损坏 [E:\DSP\x265\x265_1.7\build\vc10-x86\CMakeFiles\CMakeTmp\cmTC_09a6f.vcxproj]
+
+    0 个警告
+    1 个错误
+
+已用时间 00:00:00.72
+
+

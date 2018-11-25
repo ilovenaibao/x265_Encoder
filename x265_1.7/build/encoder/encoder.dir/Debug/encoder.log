@@ -1,0 +1,50 @@
+﻿生成启动时间为 2018/10/24 21:31:20。
+     1>项目“D:\x265_1.7\build\encoder\encoder.vcxproj”在节点 3 上(Rebuild 个目标)。
+     1>CustomBuild:
+         Building Custom Rule D:/x265_1.7/source/encoder/CMakeLists.txt
+         CMake does not need to re-run because D:/x265_1.7/build/encoder/CMakeFiles/generate.stamp is up-to-date.
+       ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /ID:\x265_1.7\source\. /ID:\x265_1.7\source\common /ID:\x265_1.7\source\encoder /ID:\x265_1.7\build /Zi /nologo /W4 /WX- /MP /Od /Ob2 /D WIN32 /D _WINDOWS /D X265_ARCH_X86=1 /D X86_64=1 /D _CRT_SECURE_NO_WARNINGS /D HAVE_INT_TYPES_H=1 /D HIGH_BIT_DEPTH=0 /D _WIN32_WINNT=_WIN32_WINNT_WIN7 /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"encoder.dir\Debug\\" /Fd"encoder.dir\Debug\vc120.pdb" /Gd /TP /wd4701 /errorReport:prompt D:\x265_1.7\source\encoder\analysis.cpp D:\x265_1.7\source\encoder\search.cpp D:\x265_1.7\source\encoder\bitcost.cpp D:\x265_1.7\source\encoder\motion.cpp D:\x265_1.7\source\encoder\slicetype.cpp D:\x265_1.7\source\encoder\frameencoder.cpp D:\x265_1.7\source\encoder\framefilter.cpp D:\x265_1.7\source\encoder\level.cpp D:\x265_1.7\source\encoder\nal.cpp D:\x265_1.7\source\encoder\sei.cpp D:\x265_1.7\source\encoder\sao.cpp D:\x265_1.7\source\encoder\entropy.cpp D:\x265_1.7\source\encoder\dpb.cpp D:\x265_1.7\source\encoder\ratecontrol.cpp D:\x265_1.7\source\encoder\reference.cpp D:\x265_1.7\source\encoder\encoder.cpp D:\x265_1.7\source\encoder\api.cpp D:\x265_1.7\source\encoder\weightPrediction.cpp
+         analysis.cpp
+         search.cpp
+         bitcost.cpp
+         motion.cpp
+         slicetype.cpp
+         frameencoder.cpp
+         framefilter.cpp
+         level.cpp
+         nal.cpp
+         sei.cpp
+         sao.cpp
+         entropy.cpp
+         dpb.cpp
+         ratecontrol.cpp
+         reference.cpp
+         encoder.cpp
+         api.cpp
+         weightPrediction.cpp
+       Lib:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\Lib.exe /OUT:"encoder.dir\Debug\encoder.lib" /NOLOGO /MACHINE:X64  /machine:x64 encoder.dir\Debug\analysis.obj
+         encoder.dir\Debug\search.obj
+         encoder.dir\Debug\bitcost.obj
+         encoder.dir\Debug\motion.obj
+         encoder.dir\Debug\slicetype.obj
+         encoder.dir\Debug\frameencoder.obj
+         encoder.dir\Debug\framefilter.obj
+         encoder.dir\Debug\level.obj
+         encoder.dir\Debug\nal.obj
+         encoder.dir\Debug\sei.obj
+         encoder.dir\Debug\sao.obj
+         encoder.dir\Debug\entropy.obj
+         encoder.dir\Debug\dpb.obj
+         encoder.dir\Debug\ratecontrol.obj
+         encoder.dir\Debug\reference.obj
+         encoder.dir\Debug\encoder.obj
+         encoder.dir\Debug\api.obj
+         encoder.dir\Debug\weightPrediction.obj
+         encoder.vcxproj -> D:\x265_1.7\build\encoder\encoder.dir\Debug\encoder.lib
+     1>已完成生成项目“D:\x265_1.7\build\encoder\encoder.vcxproj”(Rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:16.49

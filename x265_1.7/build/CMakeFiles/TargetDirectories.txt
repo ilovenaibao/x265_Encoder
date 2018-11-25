@@ -1,0 +1,10 @@
+D:/x265_1.7/build/CMakeFiles/x265-static.dir
+D:/x265_1.7/build/CMakeFiles/x265-shared.dir
+D:/x265_1.7/build/CMakeFiles/cli.dir
+D:/x265_1.7/build/CMakeFiles/INSTALL.dir
+D:/x265_1.7/build/CMakeFiles/ALL_BUILD.dir
+D:/x265_1.7/build/CMakeFiles/ZERO_CHECK.dir
+D:/x265_1.7/build/encoder/CMakeFiles/encoder.dir
+D:/x265_1.7/build/encoder/CMakeFiles/INSTALL.dir
+D:/x265_1.7/build/common/CMakeFiles/common.dir
+D:/x265_1.7/build/common/CMakeFiles/INSTALL.dir

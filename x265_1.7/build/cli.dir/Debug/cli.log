@@ -1,0 +1,44 @@
+﻿生成启动时间为 2018/10/24 21:31:39。
+     1>项目“D:\x265_1.7\build\cli.vcxproj”在节点 2 上(Rebuild 个目标)。
+     1>CustomBuild:
+         Building Custom Rule D:/x265_1.7/source/CMakeLists.txt
+         CMake does not need to re-run because D:/x265_1.7/build/CMakeFiles/generate.stamp is up-to-date.
+       ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /ID:\x265_1.7\source\. /ID:\x265_1.7\source\common /ID:\x265_1.7\source\encoder /ID:\x265_1.7\build /ID:\x265_1.7\source\compat\getopt /Zi /nologo /W4 /WX- /MP /Od /Ob2 /D WIN32 /D _WINDOWS /D X265_ARCH_X86=1 /D X86_64=1 /D _CRT_SECURE_NO_WARNINGS /D HAVE_INT_TYPES_H=1 /D HIGH_BIT_DEPTH=0 /D _WIN32_WINNT=_WIN32_WINNT_WIN7 /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cli.dir\Debug\\" /Fd"cli.dir\Debug\vc120.pdb" /Gd /TP /errorReport:prompt D:\x265_1.7\source\input\input.cpp D:\x265_1.7\source\output\output.cpp D:\x265_1.7\source\output\raw.cpp D:\x265_1.7\source\output\reconplay.cpp D:\x265_1.7\source\filters\filters.cpp D:\x265_1.7\source\x265.cpp
+         input.cpp
+         output.cpp
+         raw.cpp
+         reconplay.cpp
+         filters.cpp
+         x265.cpp
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /ID:\x265_1.7\source\. /ID:\x265_1.7\source\common /ID:\x265_1.7\source\encoder /ID:\x265_1.7\build /ID:\x265_1.7\source\compat\getopt /Zi /nologo /W4 /WX- /MP /Od /Ob2 /D WIN32 /D _WINDOWS /D X265_ARCH_X86=1 /D X86_64=1 /D _CRT_SECURE_NO_WARNINGS /D HAVE_INT_TYPES_H=1 /D HIGH_BIT_DEPTH=0 /D _WIN32_WINNT=_WIN32_WINNT_WIN7 /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cli.dir\Debug\/input/y4m.cpp.obj" /Fd"cli.dir\Debug\vc120.pdb" /Gd /TP /errorReport:prompt D:\x265_1.7\source\input\y4m.cpp
+         y4m.cpp
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /ID:\x265_1.7\source\. /ID:\x265_1.7\source\common /ID:\x265_1.7\source\encoder /ID:\x265_1.7\build /ID:\x265_1.7\source\compat\getopt /Zi /nologo /W4 /WX- /MP /Od /Ob2 /D WIN32 /D _WINDOWS /D X265_ARCH_X86=1 /D X86_64=1 /D _CRT_SECURE_NO_WARNINGS /D HAVE_INT_TYPES_H=1 /D HIGH_BIT_DEPTH=0 /D _WIN32_WINNT=_WIN32_WINNT_WIN7 /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cli.dir\Debug\/input/yuv.cpp.obj" /Fd"cli.dir\Debug\vc120.pdb" /Gd /TP /errorReport:prompt D:\x265_1.7\source\input\yuv.cpp
+         yuv.cpp
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /ID:\x265_1.7\source\. /ID:\x265_1.7\source\common /ID:\x265_1.7\source\encoder /ID:\x265_1.7\build /ID:\x265_1.7\source\compat\getopt /Zi /nologo /W4 /WX- /MP /Od /Ob2 /D WIN32 /D _WINDOWS /D X265_ARCH_X86=1 /D X86_64=1 /D _CRT_SECURE_NO_WARNINGS /D HAVE_INT_TYPES_H=1 /D HIGH_BIT_DEPTH=0 /D _WIN32_WINNT=_WIN32_WINNT_WIN7 /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cli.dir\Debug\/output/y4m.cpp.obj" /Fd"cli.dir\Debug\vc120.pdb" /Gd /TP /errorReport:prompt D:\x265_1.7\source\output\y4m.cpp
+         y4m.cpp
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /ID:\x265_1.7\source\. /ID:\x265_1.7\source\common /ID:\x265_1.7\source\encoder /ID:\x265_1.7\build /ID:\x265_1.7\source\compat\getopt /Zi /nologo /W4 /WX- /MP /Od /Ob2 /D WIN32 /D _WINDOWS /D X265_ARCH_X86=1 /D X86_64=1 /D _CRT_SECURE_NO_WARNINGS /D HAVE_INT_TYPES_H=1 /D HIGH_BIT_DEPTH=0 /D _WIN32_WINNT=_WIN32_WINNT_WIN7 /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cli.dir\Debug\/output/yuv.cpp.obj" /Fd"cli.dir\Debug\vc120.pdb" /Gd /TP /errorReport:prompt D:\x265_1.7\source\output\yuv.cpp
+         yuv.cpp
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /ID:\x265_1.7\source\. /ID:\x265_1.7\source\common /ID:\x265_1.7\source\encoder /ID:\x265_1.7\build /ID:\x265_1.7\source\compat\getopt /Zi /nologo /W4 /WX- /MP /Od /Ob2 /D HAVE_STRING_H=1 /D WIN32 /D _WINDOWS /D X265_ARCH_X86=1 /D X86_64=1 /D _CRT_SECURE_NO_WARNINGS /D HAVE_INT_TYPES_H=1 /D HIGH_BIT_DEPTH=0 /D _WIN32_WINNT=_WIN32_WINNT_WIN7 /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cli.dir\Debug\\" /Fd"cli.dir\Debug\vc120.pdb" /Gd /TC /wd4100 /wd4131 /errorReport:prompt D:\x265_1.7\source\compat\getopt\getopt.c
+         getopt.c
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\rc.exe /D WIN32 /D _DEBUG /D _WINDOWS /D X265_ARCH_X86=1 /D X86_64=1 /D _CRT_SECURE_NO_WARNINGS /D HAVE_INT_TYPES_H=1 /D HIGH_BIT_DEPTH=0 /D _WIN32_WINNT=_WIN32_WINNT_WIN7 /D "CMAKE_INTDIR=\\\"Debug\\\"" /l"0x0409" /ID:\x265_1.7\source\. /ID:\x265_1.7\source\common /ID:\x265_1.7\source\encoder /ID:\x265_1.7\build /ID:\x265_1.7\source\compat\getopt /nologo /fo"cli.dir\Debug\x265.res" D:\x265_1.7\build\x265.rc 
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"D:\x265_1.7\build\Debug\x265.exe" /INCREMENTAL /NOLOGO "Debug\x265-static.lib" kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:/x265_1.7/build/Debug/x265.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:/x265_1.7/build/Debug/x265.lib" /MACHINE:X64  /machine:x64 cli.dir\Debug\x265.res
+         cli.dir\Debug\input.obj
+         cli.dir\Debug\output.obj
+         cli.dir\Debug\raw.obj
+         cli.dir\Debug\reconplay.obj
+         cli.dir\Debug\filters.obj
+         cli.dir\Debug\getopt.obj
+         cli.dir\Debug\x265.obj
+         cli.dir\Debug\/input/y4m.cpp.obj
+         cli.dir\Debug\/input/yuv.cpp.obj
+         cli.dir\Debug\/output/y4m.cpp.obj
+         cli.dir\Debug\/output/yuv.cpp.obj
+         cli.vcxproj -> D:\x265_1.7\build\Debug\x265.exe
+     1>已完成生成项目“D:\x265_1.7\build\cli.vcxproj”(Rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:10.94

@@ -1,0 +1,60 @@
+﻿生成启动时间为 2018/10/24 21:31:36。
+     1>项目“D:\x265_1.7\build\x265-static.vcxproj”在节点 3 上(Rebuild 个目标)。
+     1>CustomBuild:
+         Building Custom Rule D:/x265_1.7/source/CMakeLists.txt
+         CMake does not need to re-run because D:/x265_1.7/build/CMakeFiles/generate.stamp is up-to-date.
+       Lib:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\Lib.exe /OUT:"D:\x265_1.7\build\Debug\x265-static.lib" /NOLOGO /MACHINE:X64  /machine:x64 D:\x265_1.7\build\encoder\encoder.dir\Debug\analysis.obj
+         D:\x265_1.7\build\encoder\encoder.dir\Debug\search.obj
+         D:\x265_1.7\build\encoder\encoder.dir\Debug\bitcost.obj
+         D:\x265_1.7\build\encoder\encoder.dir\Debug\motion.obj
+         D:\x265_1.7\build\encoder\encoder.dir\Debug\slicetype.obj
+         D:\x265_1.7\build\encoder\encoder.dir\Debug\frameencoder.obj
+         D:\x265_1.7\build\encoder\encoder.dir\Debug\framefilter.obj
+         D:\x265_1.7\build\encoder\encoder.dir\Debug\level.obj
+         D:\x265_1.7\build\encoder\encoder.dir\Debug\nal.obj
+         D:\x265_1.7\build\encoder\encoder.dir\Debug\sei.obj
+         D:\x265_1.7\build\encoder\encoder.dir\Debug\sao.obj
+         D:\x265_1.7\build\encoder\encoder.dir\Debug\entropy.obj
+         D:\x265_1.7\build\encoder\encoder.dir\Debug\dpb.obj
+         D:\x265_1.7\build\encoder\encoder.dir\Debug\ratecontrol.obj
+         D:\x265_1.7\build\encoder\encoder.dir\Debug\reference.obj
+         D:\x265_1.7\build\encoder\encoder.dir\Debug\encoder.obj
+         D:\x265_1.7\build\encoder\encoder.dir\Debug\api.obj
+         D:\x265_1.7\build\encoder\encoder.dir\Debug\weightPrediction.obj
+         D:\x265_1.7\build\common\common.dir\Debug\winxp.obj
+         D:\x265_1.7\build\common\common.dir\Debug\primitives.obj
+         D:\x265_1.7\build\common\common.dir\Debug\pixel.obj
+         D:\x265_1.7\build\common\common.dir\Debug\dct.obj
+         D:\x265_1.7\build\common\common.dir\Debug\ipfilter.obj
+         D:\x265_1.7\build\common\common.dir\Debug\intrapred.obj
+         D:\x265_1.7\build\common\common.dir\Debug\loopfilter.obj
+         D:\x265_1.7\build\common\common.dir\Debug\constants.obj
+         D:\x265_1.7\build\common\common.dir\Debug\cpu.obj
+         D:\x265_1.7\build\common\common.dir\Debug\version.obj
+         D:\x265_1.7\build\common\common.dir\Debug\threading.obj
+         D:\x265_1.7\build\common\common.dir\Debug\threadpool.obj
+         D:\x265_1.7\build\common\common.dir\Debug\wavefront.obj
+         D:\x265_1.7\build\common\common.dir\Debug\md5.obj
+         D:\x265_1.7\build\common\common.dir\Debug\bitstream.obj
+         D:\x265_1.7\build\common\common.dir\Debug\yuv.obj
+         D:\x265_1.7\build\common\common.dir\Debug\shortyuv.obj
+         D:\x265_1.7\build\common\common.dir\Debug\picyuv.obj
+         D:\x265_1.7\build\common\common.dir\Debug\common.obj
+         D:\x265_1.7\build\common\common.dir\Debug\param.obj
+         D:\x265_1.7\build\common\common.dir\Debug\frame.obj
+         D:\x265_1.7\build\common\common.dir\Debug\framedata.obj
+         D:\x265_1.7\build\common\common.dir\Debug\cudata.obj
+         D:\x265_1.7\build\common\common.dir\Debug\slice.obj
+         D:\x265_1.7\build\common\common.dir\Debug\lowres.obj
+         D:\x265_1.7\build\common\common.dir\Debug\piclist.obj
+         D:\x265_1.7\build\common\common.dir\Debug\predict.obj
+         D:\x265_1.7\build\common\common.dir\Debug\scalinglist.obj
+         D:\x265_1.7\build\common\common.dir\Debug\quant.obj
+         D:\x265_1.7\build\common\common.dir\Debug\deblock.obj
+         x265-static.vcxproj -> D:\x265_1.7\build\Debug\x265-static.lib
+     1>已完成生成项目“D:\x265_1.7\build\x265-static.vcxproj”(Rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.96
